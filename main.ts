@@ -1,4 +1,4 @@
-// DUSTLINE — a three.js tactical FPS for make.fun's threejs-fps-01 bounty.
+// DUSTLINE — a three.js tactical FPS for make.fun's threejs-fps-02 bounty.
 // The entrypoint hands the game in: it copies this directory's game/ and
 // screenshots/ to /output and writes /output/dossier.json with the vendored
 // make.fun library, so the judge can read the game. Run it locally with:
